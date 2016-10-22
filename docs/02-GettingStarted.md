@@ -86,7 +86,7 @@ I click 'Login'
 I see 'Hello, davert'
 ```
 
-Codeception generate this text represenation from PHP code by executing:
+Codeception generates this text representation from PHP code by executing:
 
 ``` bash
 php codecept generate:scenarios
